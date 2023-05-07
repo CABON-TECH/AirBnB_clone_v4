@@ -26,3 +26,4 @@ function apiStatus () {
       $('#api_status').removeClass('available');
     }
   });
+}

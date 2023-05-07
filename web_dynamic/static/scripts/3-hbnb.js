@@ -59,3 +59,4 @@ function fetchPlaces () {
       console.log(error);
     }
   });
+}

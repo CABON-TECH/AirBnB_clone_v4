@@ -11,3 +11,4 @@ function init () {
     const names = Object.keys(amenityObj);
     $('.amenities h4').text(names.sort().join(', '));
   });
+}
