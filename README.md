@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/CABON-TECH) / [Twitter](https://twitter.com/Cabon_bonii_)
+Boniface Mbogho - [Github](https://github.com/CABON-TECH) / [Twitter](https://twitter.com/Cabon_bonii_)
 ## License
 Public Domain. No copy write protection. 
